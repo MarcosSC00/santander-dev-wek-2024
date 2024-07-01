@@ -1,0 +1,1 @@
+web: java -jar build/libs/api-restful-dio-santander-0.0.1-SNAPSHOT.jar
